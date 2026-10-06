@@ -1,0 +1,6 @@
+{
+  "name": "Northfield School",
+  "description": "Official portal and management platform for Northfield School with academic programs, online admissions, campus life, events calendar, and Ask Northfield AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
